@@ -1,0 +1,14 @@
+Ir de RD a PR
+Inicio
+     Revisar si tengo Visa Estadounidense en vigencia y si no solicitar una
+     Ir a una pagina como Kayak.com
+     Seleccionar mi aeropuerto mas cercano
+     Seleccionar a que aeropuerto de PR deseo llegar
+     Seleccionar fecha de ida y vuelta al pais
+     Darle a buscar
+     Seleccionar la opcion que mas me convenga
+     Revisar si tengo el dinero suficiente para dicha opcion
+     Seguir los pasos que me indica la pagina
+     Investigar que puedo y que no puedo llevar
+     Esperar el dia y disfrutar del viaje 
+Fin

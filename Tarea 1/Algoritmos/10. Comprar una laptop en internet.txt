@@ -1,0 +1,10 @@
+Comprar una laptop en internet
+Inicio
+     Busco una tienda confiable como amazon o ebay
+     Busco laptops ahi
+     Verifico los componentes segun mis necesidades
+     Si los componentes son ideales y el precio tambien selecciono ese
+     Le doy a comprar o añadir a la cesta
+     Continuo con el proceso de pago agregando mi dirreccion o la de algun carrier
+     Lo compro y espero que llegue
+Fin

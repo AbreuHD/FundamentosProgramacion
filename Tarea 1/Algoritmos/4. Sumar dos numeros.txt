@@ -1,0 +1,7 @@
+Sumar 2 Numeros
+Inicio
+     Conocer cuales numeros quiero sumar
+     Ver si son numeros muy grandes o pequeños
+     Si son pequeños sencillamente sumarlos mentalmente, con los dedos o cuaderno
+     Si son muy grandes tomar el telefono e ingresarlos en la calculadora
+Fin

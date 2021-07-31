@@ -1,0 +1,8 @@
+Como desarrollar un algoritmo
+Inicio
+     Pensamos y analisamos lo que queremos hacer o lograr
+     Pensamos posibles formas de lograrlo y tomamos la que veamos mas viable
+     Maquetar en una hoja o diagrama de flujo lo que debemos programar
+     Empezamos a escribir el codigo
+     Revisamos si cumple los requerimientos de ser asi ya esta y si no aplicar los pasos de resolucion de problemas
+Fin

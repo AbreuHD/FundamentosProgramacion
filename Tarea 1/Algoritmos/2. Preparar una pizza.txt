@@ -1,0 +1,31 @@
+Preparar una pizza 
+Inicio
+     Revisar si tengo los siguientes ingredientes:
+         100 gramos de harina blanca
+         2.5 gramos de levadura seca
+         1/2 cucharaditas de azúcar
+         1/2 cucharaditas de aceite de oliva extra virgen
+         1 pizca de sal de mesa
+         21 gramos de pasta de tomate
+         10 mililitros de aceite de oliva extra virgen
+         1/4 dientes de ajo molido
+         1 pizca de sal de mesa
+         1 pizca de pimienta en polvo
+         1 pizca de albahaca
+         1 pizca de romero seco
+         1/2 tazas de queso rallado
+         1/2 tazas de peperoni
+     Si me falta alguno pedir un Uber e ir al Supermercado a comprarlo
+     Buscar un bol y echarle la Harina y hacer un hoyo en el centro
+     Agregarle en el hoyo sal, levadura, azucar y 50 mililitros de agua tibia
+     Mezclarlo todo hasta formar una masa
+     Espolvorear harina en una superficie plana y ahi poner la masa
+     Agregar el aceite y amasar hasta que este suave
+     Tomar otro bol y espolvorear un poco de harina y poner la masa dentro
+     Dejar reposar la masa 1 hora en un lugar calido
+     Ponerla otra ves en la superficie plana y estirarla con el rodillo
+     Darle forma a la masa y ponerla en una bandeja
+     Para la salsa juntar la pasta de tomate, 40 mililitros de agua, el aceite, ajo, sal y pimienta al gusto y las especies
+     Ya que esta la masa, agregar la salsa y exyenderla por toda la masa y encima agregar el queso
+     Agregar peperoni arriba del queso y meter al horno 15 minutos
+Fin

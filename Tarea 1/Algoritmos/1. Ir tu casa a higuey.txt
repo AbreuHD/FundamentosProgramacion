@@ -1,0 +1,15 @@
+Ir tu casa a higuey.
+Inicio
+     Tomo mi telefono
+     Activo los datos moviles
+     Abro la app de Uber
+     Selecciono mi ubicacion actual
+     Selecciono la direccion de mi casa
+     Veo lo que se me va a cobrar, es un robo pero no se llegar si no es de otra forma
+     Reviso si tengo el dinero necesario
+     Pido el Uber
+     Cuando Llegue el Uber entro a el
+     Luego de un rato llego a mi casa
+     Pago el Uber
+     Califico al Uber
+Fin

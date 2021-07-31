@@ -1,0 +1,8 @@
+Encontrar el mayor de dos numeros
+Inicio
+     Conocer cuales son mis 2 numeros
+     Observar mis dos numeros
+     Mirar cuantos digitos tiene
+     Observar si son negativos o positivos
+     El numero mas grande es el mas alejado al cero
+Fin
